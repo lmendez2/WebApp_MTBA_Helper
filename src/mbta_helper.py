@@ -33,7 +33,7 @@ def get_nearest_station(latitude, longitude):
     Given latitude and longitude strings, return a (station_name, distance)
     tuple for the nearest MBTA station to the given coordinates.
     See http://realtime.mbta.com/Portal/Home/Documents for URL
-    formatting requirements for the 'stopsbylocation' API.
+    formatting requirements for the 'stopsbylocation' API in 'MBTA-realtime API v2 Documentation'.
     """
     pass
 
